@@ -1,16 +1,17 @@
 ![](https://github.com/SnehaEkka/SnehaEkka/blob/main/my-repo-banner.png)
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sneha!
+Hi, my name is Sneha!
 ==============================================================================================================================
 
+I'm a...
 Data Enthusiast | Business Analyst | Data Scientist
 ---------------------------------------------------
 
-Sneha is passionate about working with data and data tools and utilizing her data skills in any capacity and form. She enjoys automating data processes and delivering valuable insights across industries and domains.
+I'm passionate about working with data and data tools and utilizing my data skills in any capacity and form. I enjoy automating data processes and delivering valuable insights across industries and domains.
 
 *   🌍 I'm based in Boston, MA
 *   😄 Pronouns: she/her
-*   ⚡ Fun fact: Apart from all things data, I love documentaries and building travel itineraries!
+*   ⚡ Fun fact: Apart from all-things data, I love documentaries, doodling, and planning travel itineraries!
 
 ### Skills 
 <p align="left">
