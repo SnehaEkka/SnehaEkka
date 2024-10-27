@@ -8,9 +8,9 @@ Data Enthusiast | Business Analyst | Data Scientist
 
 I'm passionate about working with data and data tools and utilizing my data skills in any capacity and form. I enjoy automating data processes and delivering valuable insights across industries and domains.
 
-*   🌍 I'm based in Boston, MA
+*   🌍 Based in Boston, MA
 *   😄 Pronouns: she/her
-*   ⚡ Fun fact: Apart from all-things data, I love documentaries, doodling, and planning travel itineraries!
+*   ⚡ About me: Apart from all-things data, I love documentaries, doodling, and planning travel itineraries!
 
 ### Skills 
 <p align="left">
