@@ -11,10 +11,10 @@
 ## **👩‍💻 About Me**  
 I'm an **Analytics Engineer in the making** who loves **storytelling through data** and making complex insights easy to understand. My work bridges the gap between raw data and meaningful business decisions.
 
-📍 **Based in:** Boston, MA  
-📊 **Passionate about:** Data Visualization, Automation, Analytics Engineering  
-🎨 **Creative at heart:** I love designing, whether it's dashboards or doodles  
-🎥 **Cinephile & Nerd:** Obsessed with extreme adventure sports documentaries  
+- 📍 **Based in:** Boston, MA  
+- 📊 **Passionate about:** Data Visualization, Automation, Analytics Engineering  
+- 🎨 **Creative at heart:** I love designing, whether it's dashboards or doodles  
+- 🎥 **Cinephile & Nerd:** Obsessed with extreme adventure sports documentaries  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SnehaEkka&style=flat-square&color=875FFC)
 
@@ -37,9 +37,9 @@ I'm an **Analytics Engineer in the making** who loves **storytelling through dat
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
 </p>
 
-💡 **Quick Learner:** I adapt to new tools fast and thrive in analytical problem-solving.  
-📈 **Analytical Thinker:** I enjoy making data accessible and insightful for non-technical audiences.  
-⚡ **Always Exploring:** Currently diving deeper into **dbt** and **cloud analytics**!  
+- 💡 **Quick Learner:** I adapt to new tools fast and thrive in analytical problem-solving.  
+- 📈 **Analytical Thinker:** I enjoy making data accessible and insightful for non-technical audiences.  
+- ⚡ **Always Exploring:** Currently diving deeper into **dbt** and **cloud analytics**!  
 
 ---
 
