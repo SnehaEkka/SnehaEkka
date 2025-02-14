@@ -3,25 +3,29 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Safira+March&size=30&pause=1000&color=875FFC&center=true&vCenter=true&width=900&lines=I'm+an+Analytics+Engineer+in+the+Making;I+enjoy+Turning+Data+into+Stories;Bridging+Insights+with+Creativity+is+what+Drives+me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=875FFC&center=true&vCenter=true&width=900&lines=I'm+an+Analytics+Engineer+in+the+Making;I+enjoy+Turning+Data+into+Stories;Bridging+Insights+with+Creativity+is+what+Drives+me" />
 </p>
 
 ---
 
 ## **👩‍💻 A Little Bit About Me**  
-I'm an **Analytics Engineer in the making** who loves **storytelling through data** and making complex insights easy to understand. My work bridges the gap between raw data and meaningful business decisions.
 
-- 📍 **Based in:** Boston, MA  
-- 📊 **Passionate about:** Data Visualization, Automation, Analytics Engineering  
-- 🎨 **Creative at heart:** I love designing, whether it's dashboards or doodles  
-- 🎥 **Cinephile & Nerd:** Obsessed with extreme adventure sports documentaries  
+Hey there! I’m a **former data scientist** with a growing passion for **data engineering**—hence, I aspire to be an **Analytics Engineer** (at least, that's what I like to call it!). I love **blending creativity with data** to craft compelling stories, making complex insights easy to understand and actionable. Numbers don’t just sit in spreadsheets for me—they come alive through **automation, visualization, and storytelling**. My passion lies in **bridging the gap** between raw data and meaningful business decisions, making analytics accessible and engaging for everyone, no matter their technical background.  
+
+- 📍 **Boston, MA**—but my mind is always traveling through data & documentaries  
+- 📊 **Love:** Designing seamless data workflows, automating the boring stuff & building "whoa!" dashboards  
+- 🎨 **Creative:** Whether datasets or doodles, I turn abstract ideas into visually stunning creations  
+- 🎥 **Cinema Nerd:** Obsessed with extreme adventure sports documentaries 🎬  
+- 🛠️ **Forever Curious:** Always learning new data tools & getting my hands dirty with cloud & automation
+
+I'm always up for a challenge and love experimenting with data in new and exciting ways! 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SnehaEkka&style=flat-square&color=875FFC)
 
 ---
 
 ## **🚀 My Tech Stack**
-### *Languages and Tools I enjoy working with...*
+*Languages and Tools I enjoy working with...*
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FDC32F?style=for-the-badge&logo=python&logoColor=black" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-E35AB3?style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -59,7 +63,7 @@ I'm an **Analytics Engineer in the making** who loves **storytelling through dat
 ---
 
 ## **🌍 Take a Look at My Work**
-### *Here's how I combine my creativity with my love for solving data problems...*
+*Here's how I combine my creativity with my love for solving data problems...*
 <p align="left">
   <a href="https://github.com/SnehaEkka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://public.tableau.com/app/profile/sneha.ekka"><img src="https://img.shields.io/badge/Tableau-E35AB3?style=for-the-badge&logo=tableau&logoColor=white" /></a>
@@ -69,7 +73,7 @@ I'm an **Analytics Engineer in the making** who loves **storytelling through dat
 ---
 
 ## **📫 Connect with Me**  
-### *Reach out if you would like to discuss my work or share anything about yours...*
+*Reach out if you would like to discuss my work or share anything about yours...*
 <p align="left">
   <a href="https://www.linkedin.com/in/snehaekka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:snehaekka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -77,6 +81,6 @@ I'm an **Analytics Engineer in the making** who loves **storytelling through dat
 
 ---
 
-✨ **"Turning data into stories that drive action."** ✨
+✨ **Turning raw data into powerful stories—one insight at a time.** ✨
 
 *More projects coming soon!*
