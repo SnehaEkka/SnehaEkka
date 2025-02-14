@@ -10,7 +10,7 @@
 
 ## **👩‍💻 A Little Bit About Me**  
 
-Hey there! I’m a **former data scientist** with a growing passion for **data engineering**—hence, I aspire to be an **Analytics Engineer** (at least, that's what I like to call it!). I love **blending creativity with data** to craft compelling stories, making complex insights easy to understand and actionable. Numbers don’t just sit in spreadsheets for me—they come alive through **automation, visualization, and storytelling**. My passion lies in **bridging the gap** between raw data and meaningful business decisions, making analytics accessible and engaging for everyone, no matter their technical background.  
+Hey there! I’m a **former data scientist** with a growing passion for **data engineering**. I love **blending creativity with data** to craft compelling stories, making complex insights easy to understand and actionable. Numbers don’t just sit in spreadsheets for me—they come alive through **automation, visualization, and storytelling**. My passion lies in **bridging the gap** between raw data and meaningful business decisions, making analytics accessible and engaging for everyone!  
 
 - 📍 **Boston, MA**—but my mind is always traveling through data & documentaries  
 - 📊 **Love:** Designing seamless data workflows, automating the boring stuff & building "whoa!" dashboards  
