@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Safira+March&size=30&pause=1000&color=875FFC&center=true&vCenter=true&width=900&lines=Analytics+Engineer+in+the+Making;Turning+Data+into+Stories;Bridging+Insights+with+Creativity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Safira+March&size=30&pause=1000&color=875FFC&center=true&vCenter=true&width=900&lines=I'm+an+Analytics+Engineer+in+the+Making;I+enjoy+Turning+Data+into+Stories;Bridging+Insights+with+Creativity+is+what+Drives+me" />
 </p>
 
 ---
