@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://github.com/SnehaEkka/SnehaEkka/blob/main/repo-banner-hi-there.gif" alt="Hi there, I'm Sneha!" />
+  <img src="https://github.com/SnehaEkka/SnehaEkka/blob/main/repo-banner-hi-there-0.gif" alt="Hi there, I'm Sneha!" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Safira+March&size=30&pause=1000&color=875FFC&center=true&vCenter=true&width=900&lines=Analytics+Engineer+in+the+Making;Turning+Data+into+Stories;Bridging+Insights+with+Creativity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Safira+March&size=30&pause=1000&color=FF5757&center=true&vCenter=true&width=900&lines=Analytics+Engineer+in+the+Making;Turning+Data+into+Stories;Bridging+Insights+with+Creativity" />
 </p>
 
 ---
