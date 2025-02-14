@@ -1,21 +1,61 @@
-![](https://github.com/SnehaEkka/SnehaEkka/blob/main/my-repo-banner.png)
+<p align="center">
+  <img src="https://github.com/SnehaEkka/SnehaEkka/blob/main/repo-banner-hi-there.gif" alt="Hi there, I'm Sneha!" />
+</p>
 
-Hi, my name is Sneha!
-==============================================================================================================================
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Safira+March&size=30&pause=1000&color=875FFC&center=true&vCenter=true&width=900&lines=Analytics+Engineer+in+the+Making;Turning+Data+into+Stories;Bridging+Insights+with+Creativity" />
+</p>
 
-Data Enthusiast | Business Analyst | Data Scientist
----------------------------------------------------
+---
 
-I'm passionate about working with data and data tools and utilizing my data skills in any capacity and form. I enjoy automating data processes and delivering valuable insights across industries and domains.
+### **👩‍💻 About Me**
+I'm an **Analytics Engineer in the making** who loves **storytelling through data** and making complex insights easy to understand. My work bridges the gap between raw data and meaningful business decisions.
 
-*   🌍 Based in Boston, MA
-*   😄 Pronouns: she/her
-*   ⚡ About me: Apart from all-things data, I love documentaries, doodling, and planning travel itineraries!
+📍 **Based in:** Boston, MA  
+📊 **Passionate about:** Data Visualization, Automation, Analytics Engineering  
+🎨 **Creative at heart:** I love designing, whether it's dashboards or doodles  
+🎥 **Cinephile & Nerd:** Obsessed with extreme adventure sports documentaries  
 
-### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+---
 
-### Socials
+### **🚀 Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,tableau,powerbi,gcp,aws,docker,git,github,vscode,figma&theme=light" />
+</p>
 
-<p align="left"> <a href="https://www.github.com/SnehaEkka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/snehaekka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/snehaekka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+💡 **Quick Learner:** I adapt to new tools fast and thrive in analytical problem-solving.  
+📈 **Analytical Thinker:** I enjoy making data accessible and insightful for non-technical audiences.  
+⚡ **Always Exploring:** Currently diving deeper into **dbt** and **cloud analytics**!  
+
+---
+
+### **📂 Featured Projects**
+🔹 **[Sales Forecasting Dashboard](https://github.com/SnehaEkka/sales-forecasting)** – Leveraging machine learning to predict revenue trends.  
+🔹 **[Customer Segmentation Analysis](https://github.com/SnehaEkka/customer-segmentation)** – Data-driven customer profiling for targeted marketing.  
+🔹 **[Cloud-Based ETL Pipeline](https://github.com/SnehaEkka/etl-pipeline)** – Automating data workflows with GCP & dbt.  
+
+*More projects coming soon!*
+
+---
+
+### **📄 My Resume**
+📥 [Download My Resume](https://github.com/SnehaEkka/SnehaEkka/blob/main/resume.pdf)  
+
+---
+
+### **📫 Connect with Me**
+<p align="center">
+  <a href="https://github.com/SnehaEkka"><img src="https://img.shields.io/badge/GitHub-A64AC9?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://public.tableau.com/app/profile/sneha.ekka"><img src="https://img.shields.io/badge/Tableau-FCCD04?style=for-the-badge&logo=tableau&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/snehaekka"><img src="https://img.shields.io/badge/LinkedIn-FFB48F?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:snehaekka@gmail.com"><img src="https://img.shields.io/badge/Email-17E9E0?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</p>
+
+---
+
+### **📊 Profile Stats**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SnehaEkka&style=flat-square&color=875FFC" />
+</p>
+
+✨ **"Turning data into stories that drive action."** ✨
