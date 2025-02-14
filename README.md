@@ -43,15 +43,6 @@ I'm an **Analytics Engineer in the making** who loves **storytelling through dat
 
 ---
 
-## **📂 Featured Projects**  
-🔹 **[Sales Forecasting Dashboard](https://github.com/SnehaEkka/sales-forecasting)** – Leveraging machine learning to predict revenue trends.  
-🔹 **[Customer Segmentation Analysis](https://github.com/SnehaEkka/customer-segmentation)** – Data-driven customer profiling for targeted marketing.  
-🔹 **[Cloud-Based ETL Pipeline](https://github.com/SnehaEkka/etl-pipeline)** – Automating data workflows with GCP & dbt.  
-
-*More projects coming soon!*
-
----
-
 ## **🌍 My Websites / My Work**  
 <p align="left">
   <a href="https://github.com/SnehaEkka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -70,3 +61,5 @@ I'm an **Analytics Engineer in the making** who loves **storytelling through dat
 ---
 
 ✨ **"Turning data into stories that drive action."** ✨
+
+*More projects coming soon!*
