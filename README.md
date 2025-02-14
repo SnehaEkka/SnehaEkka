@@ -67,7 +67,7 @@ I'm always up for a challenge and love experimenting with data in new and exciti
 <p align="left">
   <a href="https://github.com/SnehaEkka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://public.tableau.com/app/profile/sneha.ekka"><img src="https://img.shields.io/badge/Tableau-E35AB3?style=for-the-badge&logo=tableau&logoColor=white" /></a>
-  <a href="https://github.com/SnehaEkka/SnehaEkka/blob/main/resume.pdf"><img src="https://img.shields.io/badge/Resume-3CBAC8?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
+  <a href="https://github.com/SnehaEkka/SnehaEkka/blob/main/Resume - Sneha Ekka.pdf"><img src="https://img.shields.io/badge/Resume-3CBAC8?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
 </p>
 
 ---
