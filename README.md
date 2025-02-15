@@ -15,7 +15,7 @@ Hey there! I’m a **former data scientist** with a growing passion for **data e
 - 📍 **Boston, MA**—but my mind is always traveling through data & documentaries  
 - 📊 **Love:** Designing seamless data workflows, automating the boring stuff & building "whoa!" dashboards  
 - 🎨 **Creative:** Whether datasets or doodles, I turn abstract ideas into visually stunning creations  
-- 🎥 **Cinema Nerd:** Obsessed with extreme adventure sports documentaries 🎬  
+- 🎥 **Cinema Nerd:** Obsessed with satirical movies and mountaineering documentaries 🎬  
 - 🛠️ **Forever Curious:** Always learning new data tools & getting my hands dirty with cloud & automation
 
 I'm always up for a challenge and love experimenting with data in new and exciting ways! 🚀
