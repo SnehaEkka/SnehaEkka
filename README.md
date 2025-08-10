@@ -3,29 +3,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=875FFC&center=true&vCenter=true&width=900&lines=I'm+an+Analytics+Engineer+in+the+Making;I+enjoy+Turning+Data+into+Stories;Bridging+Insights+with+Creativity+is+what+Drives+me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=1C1C1E&center=true&vCenter=true&width=900&lines=Turning+Data+Chaos+into+Clarity+excites+me;I+enjoy+building+Data+Systems+that+flow;I+love+enabling+Analytics+and+Empowering+Teams" />
 </p>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=SnehaEkka&style=flat-square&color=4DA5FF)
 
-## **👩‍💻 A Little Bit About Me**  
+### A Little bit About Me  
 
-Hey there! I’m a **former data scientist** with a growing passion for **data engineering**. I love **blending creativity with data** to craft compelling stories, making complex insights easy to understand and actionable. Numbers don’t just sit in spreadsheets for me—they come alive through **automation, visualization, and storytelling**. My passion lies in **bridging the gap** between raw data and meaningful business decisions, making analytics accessible and engaging for everyone!  
+Hi there! I’m an **Analytics Engineer** who builds data systems that turn chaos into clarity, helping teams stop wrestling with data and start making confident, informed decisions. I aspire to carve out a niche at the intersection of data engineering, analytics enablement, and process design. 
 
-- 📍 **Boston, MA**—but my mind is always traveling through data & documentaries  
-- 📊 **Love:** Designing seamless data workflows, automating the boring stuff & building "whoa!" dashboards  
-- 🎨 **Creative:** Whether datasets or doodles, I turn abstract ideas into visually stunning creations  
-- 🎥 **Cinema Nerd:** Obsessed with satirical movies and mountaineering documentaries 🎬  
-- 🛠️ **Forever Curious:** Always learning new data tools & getting my hands dirty with cloud & automation
+I love blending data with creativity to craft compelling stories, making complex insights easy to understand and actionable. Data doesn’t just sit in spreadsheets for me — it comes alive through automation, visualization, and storytelling. My passion lies in bridging the gap between raw data and meaningful business decisions, making analytics accessible and engaging for everyone!
 
-I'm always up for a challenge and love experimenting with data in new and exciting ways! 🚀
+- 📍 **Located in:** Boston, MA (but my mind is always traveling through data & documentaries)
+- 🎓 **Recently graduated:** Master's in Business Analytics, Boston University  
+- 📊 **Looking for:** Analytics Engineering opportunities!
 
-![Profile Views](https://komarev.com/ghpvc/?username=SnehaEkka&style=flat-square&color=875FFC)
+### What I Love Doing  
 
----
+- ⚙️ **Data Engineering & Automation** – Streamlining messy pipelines, reducing manual effort, and enabling faster, better analytics delivery.  
+- 📊 **Analytics Enablement** – Designing user-friendly, business-aligned solutions that make data insights accessible to decision-makers.  
+- 🎯 **Business Impact** – I think beyond the code: every technical choice is tied to measurable outcomes and operational efficiency.
+- 🎨 **Creative Touch** – Whether dashboards or doodles, I turn abstract ideas into visually stunning creations.
 
-## **🚀 My Tech Stack**
-*Languages and Tools I enjoy working with...*
+### My Tech Stack  
+
 <p align="left">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-FDC32F?style=for-the-badge&logo=python&logoColor=black" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-E35AB3?style=for-the-badge&logo=pandas&logoColor=white" /></a>
@@ -56,31 +57,11 @@ I'm always up for a challenge and love experimenting with data in new and exciti
   <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-3CBAC8?style=for-the-badge&logo=canva&logoColor=white" /></a>
 </p>
 
-- 💡 **Quick Learner:** I adapt to new tools fast and thrive in analytical problem-solving.  
-- 📈 **Analytical Thinker:** I enjoy making data accessible and insightful for non-technical audiences.  
-- ⚡ **Always Exploring:** Currently diving deeper into **dbt** and **cloud analytics**!  
+### Let’s Connect  
 
----
+If you’re looking for someone who can design and deliver data systems that create measurable business impact, let’s talk.  
 
-## **🌍 Take a Look at My Work**
-*Here's how I combine my creativity with my love for solving data problems...*
-<p align="left">
-  <a href="https://github.com/SnehaEkka"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://public.tableau.com/app/profile/sneha.ekka"><img src="https://img.shields.io/badge/Tableau-E35AB3?style=for-the-badge&logo=tableau&logoColor=white" /></a>
-  <a href="https://github.com/SnehaEkka/SnehaEkka/blob/main/Resume - Sneha Ekka.pdf"><img src="https://img.shields.io/badge/Resume-3CBAC8?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
-</p>
-
----
-
-## **📫 Connect with Me**  
-*Reach out if you would like to discuss my work or share anything about yours...*
 <p align="left">
   <a href="https://www.linkedin.com/in/snehaekka"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:snehaekka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
-
-✨ **Turning raw data into powerful stories—one insight at a time.** ✨
-
-*More projects coming soon!*
