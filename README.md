@@ -18,13 +18,6 @@ I love blending data with creativity to craft compelling stories, making complex
 - 🎓 **Recently graduated:** Master's in Business Analytics, Boston University  
 - 📊 **Looking for:** Analytics Engineering opportunities!
 
-### What I Love Doing  
-
-- ⚙️ **Data Engineering & Automation** – Streamlining messy pipelines, reducing manual effort, and enabling faster, better analytics delivery.  
-- 📊 **Analytics Enablement** – Designing user-friendly, business-aligned solutions that make data insights accessible to decision-makers.  
-- 🎯 **Business Impact** – I think beyond the code: every technical choice is tied to measurable outcomes and operational efficiency.
-- 🎨 **Creative Touch** – Whether dashboards or doodles, I turn abstract ideas into visually stunning creations.
-
 ### My Tech Stack  
 
 <p align="left">
@@ -56,6 +49,13 @@ I love blending data with creativity to craft compelling stories, making complex
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-E35AB3?style=for-the-badge&logo=microsoftexcel&logoColor=white" /></a>
   <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-3CBAC8?style=for-the-badge&logo=canva&logoColor=white" /></a>
 </p>
+
+### What I Love Doing  
+
+- ⚙️ **Data Engineering & Automation** – Streamlining messy pipelines, reducing manual effort, and enabling faster, better analytics delivery.  
+- 📊 **Analytics Enablement** – Designing user-friendly, business-aligned solutions that make data insights accessible to decision-makers.  
+- 🎯 **Business Impact** – I think beyond the code: every technical choice is tied to measurable outcomes and operational efficiency.
+- 🎨 **Creative Touch** – Whether dashboards or doodles, I turn abstract ideas into visually stunning creations.
 
 ### Let’s Connect  
 
