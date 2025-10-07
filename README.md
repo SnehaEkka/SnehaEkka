@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=1C1C1E&center=true&vCenter=true&width=900&lines=Building+Scalable+Data+Pipelines;Designing+Analytics+Infrastructure;Turning+Data+Chaos+into+Clarity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=4DA5FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Data+Pipelines;Designing+Analytics+Infrastructure;Turning+Data+Chaos+into+Clarity" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SnehaEkka&style=flat-square&color=4DA5FF)
